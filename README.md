@@ -1,10 +1,9 @@
 # simple_PHP_API
 Simple PHP API
 
-This is a demo API using PHP
------------------------------
+# This is a demo API using PHP
 
-FILES:
+** FILES :**
 ./simpleAPI.php
     The API that will be consumed 
 ./consumeAPI.php
@@ -14,11 +13,11 @@ FILES:
 ./include/functions.php
     Some functions used across multiple APIs
 
-Usage:
+** Usage: **
 Try out these links to see how the API behaves:
-<location_to_api_on_server>/API/simpleAPI.php
-<location_to_api_on_server>/API/simpleAPI.php?token=1
-<location_to_api_on_server>/API/simpleAPI.php?token=1&action=action1
-<location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime
-<location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime&timezone=GMT
-<location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime&timezone=IST
+- <location_to_api_on_server>/API/simpleAPI.php
+- <location_to_api_on_server>/API/simpleAPI.php?token=1
+- <location_to_api_on_server>/API/simpleAPI.php?token=1&action=action1
+- <location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime
+- <location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime&timezone=GMT
+- <location_to_api_on_server>/API/simpleAPI.php?token=1&action=getCurrentTime&timezone=IST
